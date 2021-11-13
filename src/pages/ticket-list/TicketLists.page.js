@@ -30,9 +30,7 @@ export const TicketLists = () => {
         <Container>
             <Row>
                 <Col>
-                <PageBreadcrumb page='Ticket List'>
-                
-                </PageBreadcrumb>
+                <PageBreadcrumb page='Ticket List'/>
                 </Col>
             </Row>
             <Row className="mt-4">

@@ -3,7 +3,24 @@
         "id":1,
         "subject":"Issue",
         "status":"pending",
-        "addedAt":"2021-09-23"
+        "addedAt":"2021-09-23",
+        "history":[
+            {
+                "date":"20-10-10",
+                "message":"cddfv vf sf",
+                "messageBy":"client"
+            },
+            {
+                "date":"20-10-10",
+                "message":"cddfv vf sf",
+                "messageBy":"operator"
+            },
+            {
+                "date":"20-10-10",
+                "message":"cddfv vf sf",
+                "messageBy":"client"
+            }
+        ]
     },
     {
         "id":2,
